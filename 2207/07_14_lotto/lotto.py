@@ -19,4 +19,4 @@ sample_No_set(pre_No, sample_No)
 
 sample_win_1000(pre_No)
 
-all_win_stacks(pre_No, 10000)
+all_win_stacks(pre_No, 1000)
